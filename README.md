@@ -6,8 +6,8 @@ The guidance for installing SUMO can be found [in their documentation](https://s
 
 ## SUMO Simulator Files
 In this folder, all the files necessary to run the SUMO simulations done in this project.
-`road.py` can be simply executed to perform an example simulation, with a period of 14 and a threshold of 0.3.
-To repeat the experiments done in the project, use the `run_experiment` functions.
+`road.py` can be simply executed to perform an example simulation, with a period of `14` and a threshold of `0.3`.
+To repeat the experiments done in the project, use the `run_experiment` functions inside the `road.py` script.
 
 ## Results
 The results folders, labelled  1, 2, 3, Control and Baseline, represent the simulator outputs from the experiments done in as part of the project.
