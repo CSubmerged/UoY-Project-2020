@@ -1,0 +1,9 @@
+<configuration>
+
+    <input>
+        <net-file value="3lane.net.xml"/>
+        <route-files value="2lanesA55626July.rou.xml"/>
+        <gui-settings-file value="road.view.xml"/>
+    </input>
+
+</configuration>
