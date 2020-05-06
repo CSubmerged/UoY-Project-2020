@@ -10,11 +10,13 @@ In this folder, all the files necessary to run the SUMO simulations done in this
 To repeat the experiments done in the project, use the `run_experiment` functions inside the `road.py` script.
 
 ## Results
-The results folders, labelled  1, 2, 3, Control and Baseline, represent the simulator outputs from the experiments done in as part of the project.
+The results folder, which includes Control and Baseline results, represent the simulator outputs from the experiments done in as part of the project.
 These outputs consist of:
 - `consolesummary.*.txt` - the output of variables kept track of by the python control script.
 - `summary.*.xml` - the simulator's summary file output.
 - `tripinfo.*.xml` - information for each vehicle in the simulation, including the time loss.
+
+As the experiment results are around 8.4GB in size, github does not support hosting these. You can find the experiment simulator outputs by following the google drive link in the results folder readme.
 
 ## Python Scripts
 ### `dataConverting`

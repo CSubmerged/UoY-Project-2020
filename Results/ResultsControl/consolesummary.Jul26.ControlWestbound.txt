@@ -1,0 +1,2 @@
+Final simulation time step: 86445
+Number of lane reversals: 0
